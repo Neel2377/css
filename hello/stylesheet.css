@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Playwrite NG Modern';
+    src: url('PlaywriteNGModern-Regular.woff2') format('woff2'),
+        url('PlaywriteNGModern-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
